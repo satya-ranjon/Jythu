@@ -96,7 +96,7 @@ ${isOpen ? "translate-x-0 " : "translate-x-[-100%] "}`
             0
           </span>
         </div>
-        <IoSearchSharp className="text-lg hidden" />
+        <IoSearchSharp className="text-lg hidden xl:block" />
         <button className=" hidden md:flex px-4 py-3 text-white rounded-full font-semibold bg-gradient-to-r from-[#14a08d] to-[#36ea7e]  justify-center items-center gap-2">
           GET QUOTE <FaArrowRightLong />
         </button>

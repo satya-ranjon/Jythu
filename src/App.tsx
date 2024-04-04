@@ -4,7 +4,7 @@ import Navbar from "./components/home/Navbar";
 
 const App: React.FC = () => {
   return (
-    <div>
+    <div className=" font-inter">
       <Navbar />
       <HeroSection />
     </div>
