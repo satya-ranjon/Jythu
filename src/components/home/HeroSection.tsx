@@ -7,7 +7,7 @@ import Vector from "../../assets/Vector.png";
 const HeroSection: React.FC = () => {
   return (
     <div
-      className="bg-no-repeat bg-cover bg-center"
+      className="bg-no-repeat bg-cover bg-center "
       style={{ backgroundImage: ` URL(${herobg})` }}>
       <Container>
         <div className="flex justify-between items-center gap-20 ">
